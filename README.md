@@ -2,14 +2,10 @@
 
 Welcome to the simple keylogger repo! A keylogger is a program that records your keystrokes, and this program saves them in a log file on your local computer.
 
-Check out below to learn how to install them. These keyloggers are simple and bare bones, however they work great! Feel free to fork and improve it if you want.
-
-Currently, there are three keylogger programs for the major operating systems; Windows, Mac and Linux.
+Keystroke logging, often referred to as keylogging or keyboard capturing, is the action of recording the keys struck on a keyboard, typically covertly, so that a person using the keyboard is unaware that their actions are being monitored. Data can then be retrieved by the person operating the logging program. These keyloggers are simple and bare bones, however they work great.
 
 ## Contents
 - [Windows installation guide](https://github.com/190330191/KeyLogger/blob/main/README.md)
-
-Or, view the `README.md` file in each programs folder for more up to date information.
 
 ## Windows
 To change visibility of the window set the `#define` in line 9 to `visible` or `invisible`.
