@@ -2,7 +2,7 @@
 
 Welcome to the simple keylogger repo! A keylogger is a program that records your keystrokes, and this program saves them in a log file on your local computer.
 
-Check out below to learn how to install them. These keyloggers are simple and bare bones, however they work great! Feel free to fork and improve it if you want. Be sure to check out the [issues](https://github.com/GiacomoLaw/Keylogger/issues) or [pull requests](https://github.com/GiacomoLaw/Keylogger/pulls) to see if your problem has been fixed, or to help out others.
+Check out below to learn how to install them. These keyloggers are simple and bare bones, however they work great! Feel free to fork and improve it if you want.
 
 Currently, there are three keylogger programs for the major operating systems; Windows, Mac and Linux.
 
@@ -57,10 +57,6 @@ Will uninstall the program, but not the logs.
 
 ---
 
-Thanks to [Casey Scarborough](https://github.com/caseyscarborough/keylogger) for the base program!
-
-> Please note that this logger cannot record keystrokes in protected areas yet.
-
 ## Linux
 
 ### Installation
@@ -110,11 +106,3 @@ Some uses of a keylogger are:
 - Self analysis
 
 ---
-
-Feel free to contribute to fix any problems, or to submit an issue!
-
-Please note, this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
-
-Don't really understand licenses or tl;dr? Check out the [MIT license summary](https://tldrlegal.com/license/mit-license).
-
-Distributed under the MIT license. See [LICENSE](https://github.com/GiacomoLaw/Keylogger/blob/master/LICENSE.txt) for more information.
